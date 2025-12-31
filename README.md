@@ -1,5 +1,11 @@
 ## Bem-vindo(a) ao perfil do Igor Pansera 😁
 
+![Metrics](https://metrics.lecoq.io/IgorPansera?template=classic&languages=1&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=IgorPansera&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorPansera&theme=tokyo-night)
+
 <div>
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=IgorPansera&show_icons=true&theme=tokyonight"/>
