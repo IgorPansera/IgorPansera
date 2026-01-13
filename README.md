@@ -13,22 +13,6 @@
   <img src="https://img.shields.io/badge/Funcionário%20Público-Administrativo-blue?style=for-the-badge&logo=briefcase&logoColor=white">
   <img src="https://img.shields.io/badge/Setor%20de%20Compras-Gestão-orange?style=for-the-badge">
 </p>
-
- src="https://img.shields.io/badge/Setor%20de%20Compras-Gestão-orange?style=for-the-badge">
-</p>
-
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=IgorPansera&show_icons=true&theme=tokyonight" />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPansera&layout=compact&langs_count=6&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=IgorPansera&theme=tokyonight" />
-</p>
-
 ---
 
 ### 🛠️ Tecnologias que estou estudando
