@@ -6,13 +6,17 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=IgorPansera&show_icons=true&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api?username=IgorPansera&show_icons=true&theme=tokyonight" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPansera&layout=compact&langs_count=6&theme=tokyonight" />
+</p>
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPansera&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=IgorPansera&theme=tokyonight" />
+</p>
 
 ---
 
