@@ -1,12 +1,12 @@
-## Bem-vindo(a) ao perfil do Igor Pansera 😁
+## 👋 Olá! Eu sou o Igor Pansera 😁
 
-![Metrics](https://metrics.lecoq.io/IgorPansera?template=classic&languages=1&theme=tokyonight)
+💻 Estudante de **Desenvolvimento Web**  
+🚀 Focado em **HTML5, CSS3 e JavaScript**  
+📚 Evoluindo todos os dias com projetos práticos
 
-![GitHub Streak](https://streak-stats.demolab.com?user=IgorPansera&theme=tokyonight)
+---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IgorPansera&theme=tokyo-night)
-
-<div>
+<div align="center">
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api?username=IgorPansera&show_icons=true&theme=tokyonight"/>
 
@@ -14,22 +14,30 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPansera&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40"
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IgorPansera&theme=tokyonight"/>
+</div>
+
+---
+
+### 🛠️ Tecnologias que estou estudando
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40"
+  <img align="center" alt="HTML5" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40"
+  <img align="center" alt="CSS3" height="40" width="50"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br>
+---
 
-### Pra conteúdo sobre programação me segue nas redes abaixo!
-
-<div>
+### 🌐 Me encontre nas redes
+<div align="center">
   <a href="https://www.instagram.com/igor.pansera" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   <a href="https://discord.com/users/1144813194477568060" target="_blank">
@@ -37,10 +45,10 @@
   </a>
 
   <a href="mailto:igorpansera95@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://linkedin.com/in/igor-pansera-047a07357" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
