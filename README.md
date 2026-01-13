@@ -1,5 +1,7 @@
 ## 👋 Olá! Eu sou o Igor Pansera 😁
 
+💼 Funcionário Público  
+📑 Administrativo — Setor de Compras
 💻 Estudante de **Desenvolvimento Web**  
 🚀 Focado em **HTML5, CSS3 e JavaScript**  
 📚 Evoluindo todos os dias com projetos práticos
