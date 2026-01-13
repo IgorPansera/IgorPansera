@@ -8,6 +8,10 @@
 📚 Evoluindo todos os dias com projetos práticos
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Funcionário%20Público-Administrativo-blue?style=for-the-badge&logo=briefcase&logoColor=white">
+  <img src="https://img.shields.io/badge/Setor%20de%20Compras-Gestão-orange?style=for-the-badge">
+</p>
 
 <p align="center">
   <img height="180em"
